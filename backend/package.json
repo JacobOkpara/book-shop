@@ -4,6 +4,8 @@
   "main": "index.js",
   "author": "Jacob Okpara <okparajacob@gmail.com>",
   "license": "MIT",
+  "scripts": {"start": "nodemon index.js"},
+  "keywords" : [],
   "dependencies": {
     "express": "^4.17.3"
   }
